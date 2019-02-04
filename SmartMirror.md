@@ -5,5 +5,5 @@
 [Kevin Buffardi](https://github.com/kbuffardi)
 
 ## Students
-* [Alireza Moradi1] (https://github.com/moradia100)
+* [Alireza Moradi] (https://github.com/moradia100)
 * [Aaron Pfister] (https://github.com/akpfister)
