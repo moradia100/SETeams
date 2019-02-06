@@ -1,9 +1,7 @@
-# Roster of the current class (Spring 2019)
-
-## Instructor
-
-[Kevin Buffardi](https://github.com/kbuffardi)
+# SmartMirror Project
 
 ## Students
-* [Alireza Moradi] (https://github.com/moradia100)
-* [Aaron K Pfister] (https://github.com/akpfister)
+* [Alireza Moradi](https://github.com/moradia100)
+* [Javier Pardo](https://github.com/JaviPardox)
+* [Andres Contreras](https://github.com/andrecon)
+* [Aaron Pfister](https://github.com/akpfister)
